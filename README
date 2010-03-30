@@ -1,0 +1,9 @@
+= Excerpt
+
+Extension that provides an <r:exerpt> tag to return the content up to a certain length, closing any tags that are opened in the content.
+
+= Usage
+
+<r:excerpt [strip_html="true|false"][ok_tags="div p"]>...</r:excerpt>
+
+Built by smooshyLab http://www.smooshylab.com
